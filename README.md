@@ -9,4 +9,4 @@ Configured for setup:
 - TFT24 v1.1
 - TMC2208
 
-You need a Marlin Firmware, download from https://marlinfw.org/meta/download/ and substitute the Marlin directory files inside.
+You need a lachusmadeti repo files and Marlin Firmware (download from https://marlinfw.org/meta/download/ ) and substitute the Marlin directory files inside .
