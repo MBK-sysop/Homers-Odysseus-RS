@@ -1,8 +1,7 @@
 # Homers-Odysseus-RS
 3D Printer Marlin 2.0.9.1 configuration files for Tevo Tarantula RS / Homers Odysseus RS
 
-- Marlin Config
-Config files based on https://github.com/lachusmadeti/Tarantula-RS
+- Marlin config files based on https://github.com/lachusmadeti/Tarantula-RS
 
 Configured for setup:
   -- MKS GEN L v1.0 board
